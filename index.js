@@ -36,5 +36,5 @@ app.delete('/parkings/:id', (req,res) => {
 })
 
 app.listen(8081, () => {
-    console.log('Serveur à lécoutge')       
+    console.log('Serveur à l''écoutge')       
   })
